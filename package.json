@@ -1,7 +1,6 @@
 {
-  "name": "elm-template",
+  "name": "elm-drag-demo",
   "version": "1.0.0",
-  "description": "## Initialize ``` $ npm i $ elm-package install ```",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -13,15 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uzimaru0000/elm-template.git"
+    "url": "git+https://github.com/uzimaru0000/elm-drag-demo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/uzimaru0000/elm-template/issues"
-  },
-  "homepage": "https://github.com/uzimaru0000/elm-template#readme",
   "devDependencies": {
     "elm-hot": "^1.0.1",
     "node-elm-compiler": "^5.0.1",
