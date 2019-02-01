@@ -16,9 +16,6 @@ update msg model =
 
         Drag p ->
             let
-                a =
-                    Debug.log "" p
-
                 updatedReference =
                     model.ref
                         |> Maybe.map (Reference.modify <| Entity.move p)
