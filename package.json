@@ -1,0 +1,29 @@
+{
+  "name": "elm-template",
+  "version": "1.0.0",
+  "description": "## Initialize ``` $ npm i $ elm-package install ```",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzimaru0000/elm-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzimaru0000/elm-template/issues"
+  },
+  "homepage": "https://github.com/uzimaru0000/elm-template#readme",
+  "devDependencies": {
+    "elm-hot": "^1.0.1",
+    "node-elm-compiler": "^5.0.1",
+    "parcel": "^1.11.0"
+  }
+}
